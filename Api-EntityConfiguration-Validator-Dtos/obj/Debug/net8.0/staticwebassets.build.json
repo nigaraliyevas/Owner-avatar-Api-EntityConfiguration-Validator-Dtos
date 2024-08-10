@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "egyn0dllw9cczo8uewJy/e9cD65wughPfZE+cTsoyL8=",
+  "Source": "Api-EntityConfiguration-Validator-Dtos",
+  "BasePath": "_content/Api-EntityConfiguration-Validator-Dtos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Api-EntityConfiguration-Validator-Dtos\\wwwroot",
+      "Source": "Api-EntityConfiguration-Validator-Dtos",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\Api-EntityConfiguration-Validator-Dtos\\wwwroot\\",
+      "BasePath": "_content/Api-EntityConfiguration-Validator-Dtos",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\Api-EntityConfiguration-Validator-Dtos\\wwwroot\\img\\0a334062-c4f6-4d70-8d09-fbb0c7bf97bf.jpg",
+      "SourceId": "Api-EntityConfiguration-Validator-Dtos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\Api-EntityConfiguration-Validator-Dtos\\wwwroot\\",
+      "BasePath": "_content/Api-EntityConfiguration-Validator-Dtos",
+      "RelativePath": "img/0a334062-c4f6-4d70-8d09-fbb0c7bf97bf.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\0a334062-c4f6-4d70-8d09-fbb0c7bf97bf.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\Api-EntityConfiguration-Validator-Dtos\\wwwroot\\img\\phone.jpg",
+      "SourceId": "Api-EntityConfiguration-Validator-Dtos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\Api-EntityConfiguration-Validator-Dtos\\wwwroot\\",
+      "BasePath": "_content/Api-EntityConfiguration-Validator-Dtos",
+      "RelativePath": "img/phone.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\phone.jpg"
+    }
+  ]
+}

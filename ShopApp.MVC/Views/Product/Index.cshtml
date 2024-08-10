@@ -1,0 +1,22 @@
+﻿@using ShopApp.MVC.ViewModels.Product
+@model ProductListDto
+<table class="table">
+  <thead>
+    <tr>
+<th scope="col">Id</th>
+      <th scope="col">Name</th>
+      <th scope="col">SalePrice</th>
+      <th scope="col">CostPrice</th>
+    </tr>
+  </thead>
+  <tbody>
+      @foreach(var product in Model.Items){
+        <tr>
+          <td>@product.Id</td>
+          <td>@product.Name</td>
+          <td>@product.SalePrice</td>
+          <td>@product.CostPrice</td>
+        </tr>
+      }
+  </tbody>
+</table>

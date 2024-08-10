@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\Api-EntityConfiguration-Validator-Dtos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCEAB3B-506F-4276-A116-A772343F51A1}|Api-EntityConfiguration-Validator-Dtos.csproj|c:\\users\\user\\desktop\\code academy\\tasks\\backend\\api\\api-entityconfiguration-validator-dtos\\apps\\adminapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCEAB3B-506F-4276-A116-A772343F51A1}|Api-EntityConfiguration-Validator-Dtos.csproj|solutionrelative:apps\\adminapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078DBBCC-4E18-4ED9-BC06-4FCBC39568A0}|..\\ShopApp.MVC\\ShopApp.MVC.csproj|c:\\users\\user\\desktop\\code academy\\tasks\\backend\\api\\shopapp.mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078DBBCC-4E18-4ED9-BC06-4FCBC39568A0}|..\\ShopApp.MVC\\ShopApp.MVC.csproj|c:\\users\\user\\desktop\\code academy\\tasks\\backend\\api\\shopapp.mvc\\viewmodels\\login\\usertokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078DBBCC-4E18-4ED9-BC06-4FCBC39568A0}|..\\ShopApp.MVC\\ShopApp.MVC.csproj|c:\\users\\user\\desktop\\code academy\\tasks\\backend\\api\\shopapp.mvc\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078DBBCC-4E18-4ED9-BC06-4FCBC39568A0}|..\\ShopApp.MVC\\ShopApp.MVC.csproj|c:\\users\\user\\desktop\\code academy\\tasks\\backend\\api\\shopapp.mvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078DBBCC-4E18-4ED9-BC06-4FCBC39568A0}|..\\ShopApp.MVC\\ShopApp.MVC.csproj|c:\\users\\user\\desktop\\code academy\\tasks\\backend\\api\\shopapp.mvc\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCEAB3B-506F-4276-A116-A772343F51A1}|Api-EntityConfiguration-Validator-Dtos.csproj|c:\\users\\user\\desktop\\code academy\\tasks\\backend\\api\\api-entityconfiguration-validator-dtos\\apps\\adminapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCEAB3B-506F-4276-A116-A772343F51A1}|Api-EntityConfiguration-Validator-Dtos.csproj|solutionrelative:apps\\adminapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCEAB3B-506F-4276-A116-A772343F51A1}|Api-EntityConfiguration-Validator-Dtos.csproj|c:\\users\\user\\desktop\\code academy\\tasks\\backend\\api\\api-entityconfiguration-validator-dtos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FBCEAB3B-506F-4276-A116-A772343F51A1}|Api-EntityConfiguration-Validator-Dtos.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078DBBCC-4E18-4ED9-BC06-4FCBC39568A0}|..\\ShopApp.MVC\\ShopApp.MVC.csproj|c:\\users\\user\\desktop\\code academy\\tasks\\backend\\api\\shopapp.mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserTokenDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\ShopApp.MVC\\ViewModels\\Login\\UserTokenDto.cs",
+              "RelativeDocumentMoniker": "..\\ShopApp.MVC\\ViewModels\\Login\\UserTokenDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\ShopApp.MVC\\ViewModels\\Login\\UserTokenDto.cs",
+              "RelativeToolTip": "..\\ShopApp.MVC\\ViewModels\\Login\\UserTokenDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:52:02.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\ShopApp.MVC\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "..\\ShopApp.MVC\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\ShopApp.MVC\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "..\\ShopApp.MVC\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T22:30:43.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\ShopApp.MVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "..\\ShopApp.MVC\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\ShopApp.MVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "..\\ShopApp.MVC\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwA0AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:21:10.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\ShopApp.MVC\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "..\\ShopApp.MVC\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\ShopApp.MVC\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "..\\ShopApp.MVC\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:24:05.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\ShopApp.MVC\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\ShopApp.MVC\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\ShopApp.MVC\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "..\\ShopApp.MVC\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T22:34:52.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\Api-EntityConfiguration-Validator-Dtos\\Apps\\AdminApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Apps\\AdminApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\Api-EntityConfiguration-Validator-Dtos\\Apps\\AdminApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Apps\\AdminApp\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:10:13.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\Api-EntityConfiguration-Validator-Dtos\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\Api-EntityConfiguration-Validator-Dtos\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-10T22:08:51.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\Api-EntityConfiguration-Validator-Dtos\\Apps\\AdminApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Apps\\AdminApp\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\Api-EntityConfiguration-Validator-Dtos\\Apps\\AdminApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Apps\\AdminApp\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:07:46.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\ShopApp.MVC\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\ShopApp.MVC\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\ShopApp.MVC\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "..\\ShopApp.MVC\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T21:59:54.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

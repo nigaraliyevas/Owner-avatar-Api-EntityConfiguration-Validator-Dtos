@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\Api-EntityConfiguration-Validator-Dtos\\wwwroot\\img\\0a334062-c4f6-4d70-8d09-fbb0c7bf97bf.jpg",
+      "PackagePath": "staticwebassets\\img\\0a334062-c4f6-4d70-8d09-fbb0c7bf97bf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Code Academy\\Tasks\\Backend\\API\\Api-EntityConfiguration-Validator-Dtos\\wwwroot\\img\\phone.jpg",
+      "PackagePath": "staticwebassets\\img\\phone.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Api-EntityConfiguration-Validator-Dtos.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Api-EntityConfiguration-Validator-Dtos.props",
+      "PackagePath": "build\\Api-EntityConfiguration-Validator-Dtos.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Api-EntityConfiguration-Validator-Dtos.props",
+      "PackagePath": "buildMultiTargeting\\Api-EntityConfiguration-Validator-Dtos.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Api-EntityConfiguration-Validator-Dtos.props",
+      "PackagePath": "buildTransitive\\Api-EntityConfiguration-Validator-Dtos.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

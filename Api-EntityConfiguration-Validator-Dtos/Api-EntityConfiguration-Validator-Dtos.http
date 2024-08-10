@@ -1,0 +1,6 @@
+@Api_EntityConfiguration_Validator_Dtos_HostAddress = http://localhost:5159
+
+GET {{Api_EntityConfiguration_Validator_Dtos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

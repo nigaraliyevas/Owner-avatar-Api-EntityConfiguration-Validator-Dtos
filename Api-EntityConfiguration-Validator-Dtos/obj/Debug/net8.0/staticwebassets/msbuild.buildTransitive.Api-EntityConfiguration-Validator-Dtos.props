@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Api-EntityConfiguration-Validator-Dtos.props" />
+</Project>
